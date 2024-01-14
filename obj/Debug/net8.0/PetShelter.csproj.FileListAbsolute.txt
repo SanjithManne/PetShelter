@@ -1,0 +1,14 @@
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\bin\Debug\net8.0\PetShelter.exe
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\bin\Debug\net8.0\PetShelter.deps.json
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\bin\Debug\net8.0\PetShelter.runtimeconfig.json
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\bin\Debug\net8.0\PetShelter.dll
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\bin\Debug\net8.0\PetShelter.pdb
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\obj\Debug\net8.0\PetShelter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\obj\Debug\net8.0\PetShelter.AssemblyInfoInputs.cache
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\obj\Debug\net8.0\PetShelter.AssemblyInfo.cs
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\obj\Debug\net8.0\PetShelter.csproj.CoreCompileInputs.cache
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\obj\Debug\net8.0\PetShelter.dll
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\obj\Debug\net8.0\refint\PetShelter.dll
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\obj\Debug\net8.0\PetShelter.pdb
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\obj\Debug\net8.0\PetShelter.genruntimeconfig.cache
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\obj\Debug\net8.0\ref\PetShelter.dll
