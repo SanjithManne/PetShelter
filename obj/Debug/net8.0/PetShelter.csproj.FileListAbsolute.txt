@@ -12,3 +12,4 @@ C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\obj\Debug\net8.0\refint\PetShe
 C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\obj\Debug\net8.0\PetShelter.pdb
 C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\obj\Debug\net8.0\PetShelter.genruntimeconfig.cache
 C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\obj\Debug\net8.0\ref\PetShelter.dll
+C:\Users\sanji\OneDrive\Desktop\Github\PetShelter\obj\Debug\net8.0\PetShelter.sourcelink.json
